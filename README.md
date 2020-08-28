@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="Twitch" src=".github/twitch.jpeg" width="100%">
+  <img alt="Twitch" src=".github/twitch.jpeg" width="30%">
 </p>
 
 ## 🚀 Tecnologias
